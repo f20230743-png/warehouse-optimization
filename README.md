@@ -111,3 +111,5 @@ Table 1: Comparison of placement strategies, listed from best to worst (lowest t
 
 ![Bar chart of the results](static/img/results_bar_chart.png)
 Figure 1: Comparison of placement strategies, displayed from best to worst (lowest time = better)
+
+**Author:**: Samarth Singh Baghel, BITS Pilani, ECE
